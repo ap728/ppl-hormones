@@ -55,3 +55,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Mac Ignores
+*.DS_Store
+
+# Project-specific
+src/.ipynb_checkpoints/
