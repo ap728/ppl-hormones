@@ -55,3 +55,12 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Project specific
+src/.ipynb_checkpoints/
+
+# Generic
+*~
+
+# Mac
+.DS_Store
