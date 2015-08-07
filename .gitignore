@@ -63,6 +63,7 @@ src/cluster_num_hist.pdf
 src/beta_posterior_hist.pdf
 src/for_python.csv
 *.csv
+*.pdf
 
 # Generic
 *~
